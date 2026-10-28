@@ -17,7 +17,7 @@ SUGGESTIONS = [
     "Teeth whitening ka rate kya hai?",
     "Appointment kaise book karun?",
 ]
-DEBUG = True   # demo/client ko dene se pehle False kar dein
+DEBUG = False   # demo/client ko dene se pehle False kar dein
 # --------------------------------------------------------------------------
 
 st.set_page_config(page_title=CLINIC_NAME, page_icon="🦷", layout="centered")
